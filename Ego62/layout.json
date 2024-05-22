@@ -2,6 +2,8 @@
   "name": "Ego62",
   "startX":0.25,
   "startY":0.25,
+  "rowCount":5,
+  "colCount":14,
   "layout": [
 	{"x": 0,"y": 1,"r": 0,"l": 1,"row": 0,"col": 0},
 	{"x": 1,"y": 1,"r": 0,"l": 1,"row": 0,"col": 1},
